@@ -6,5 +6,5 @@ let Scelta = (Animal == 1) ? "Chose the Dog"
         : (Animal == 3) ? "Chose the Goldfish" 
         : (Animal == 4) ? "Chose the Monkey" 
         : (Animal == 5) ? "Chose the Panda" 
-        : "Animale not found"; 
+        : "Animal not found"; 
 console.log(Scelta)
