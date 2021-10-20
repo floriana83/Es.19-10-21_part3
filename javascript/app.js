@@ -7,4 +7,4 @@ let Scelta = (Animal == 1) ? "Chose the Dog"
         : (Animal == 4) ? "Chose the Monkey" 
         : (Animal == 5) ? "Chose the Panda" 
         : "Animal not found"; 
-console.log(Scelta)
+console.log(Scelta) 
